@@ -1,0 +1,105 @@
+  .h{
+    color:rgb(233, 16, 186);
+      size: 30px;
+      font-size: 50px;
+  }
+  .m{
+      color: rgb(116, 6, 72);
+      background-color: none;
+      size: 15px;
+
+  }
+  ul{
+      background-color:rgb(128, 0, 21);
+      list-style-type: none;
+      margin: 0px;
+      padding: 0px;
+      overflow: hidden;
+      
+     
+
+
+  }
+li{
+    float: left;
+    
+    margin: 35px;
+    
+    font-size: 25px;
+  
+   
+    font-size: 25px;
+    
+
+}
+li a{
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+li a:hover{
+    background-color: rgb(104, 102, 8);
+    color:black;
+
+}
+.n{
+    background-color: rgb(255, 0, 191);
+    border: 5px solid gray;
+    height: 80px;
+   
+}
+.x{
+    color: rgb(110, 255, 105);
+    font: size 30%;
+}
+.b{
+    width: 1330px;
+    height: 300px;
+    border: 2px solid red;
+    margin-top: 10px;
+
+}
+.f{
+    background-color:none;
+    height: 300px;
+    width: 500px;
+    float: right;
+}
+.last{
+    background-color:none;
+    height: 300px;
+    width: 750px;
+    float: left;
+}
+
+tr{
+  
+    border: 10px;
+    background-color:darkred;
+  
+
+
+}
+.tp{
+    height: 500px;
+    width: 1000px;
+    
+    border-radius: 5px;
+    margin: 10px 50px 10px 100px;
+    padding: 0px 30px 0px 30px;
+   
+}
+.center{
+    width: 295px;
+    height:300px;
+    float: left;
+   
+  border: 5px solid rosybrown;
+    border-radius: 4px;
+    margin: 10px 4px;
+   padding: 2px;
+}
+p{
+    line-height: 5px;
+    color: black;
+}
